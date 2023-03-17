@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * nain - Entry point
- * Return: Always 0 (Success)
+ * nain - main function
+ * Return: 0 on Success
  */
 int main(void)
 {
