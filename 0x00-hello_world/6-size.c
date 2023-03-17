@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * nain - A program that prints the size of various types
- * return: 0 (main success)
+ * nain - Entry point
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
