@@ -5,7 +5,7 @@
  *
  * @i: function parameter
  *
- *Retturn: y
+ *Return: y
  */
 
 int print_last_digit(int i)
