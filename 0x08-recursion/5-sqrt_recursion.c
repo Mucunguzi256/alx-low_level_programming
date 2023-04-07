@@ -5,7 +5,6 @@ int actuat_sqrt_recursion(int n, int i);
 /**
  * _sqrt_recursion - returns actual square root of a number
  * @n: number to calculate square root of
- * @i: iterate number
  * Return: square root of the number
  */
 
