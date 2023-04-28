@@ -1,6 +1,4 @@
-101-hello_holberton.asm
-
-	global   main
+global   main
 	  extern    printf
 main:
 	  mov   edi, format
